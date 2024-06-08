@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/Qi2Q_U?referralCode=C-JrDA)
+
 # Create T3 App
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
